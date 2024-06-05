@@ -1,9 +1,9 @@
-# Project Title
+# ManPages for CLI commands
 
 ![Main Image](CLI.jpg)
 
 ## Description
-A brief description of your project, what it does, and why it is useful.
+We tried to demonstrate basic to intermediate level of  using Commands for Linux and and MacOS commmnads 
 
 ## Installation
 Steps to install and set up your project:
