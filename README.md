@@ -1,6 +1,6 @@
 # Project Title
 
-![Main Image](images/main-image.png)
+![Main Image](ManPages/CLI.jpg)
 
 ## Description
 A brief description of your project, what it does, and why it is useful.
