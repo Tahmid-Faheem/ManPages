@@ -3,12 +3,9 @@
 ![Main Image](CLI.jpg)
 
 ## Description
-We tried to demonstrate basic to intermediate level of  using Commands for Linux and and MacOS commmnads 
+We tried to demonstrate basic to intermediate level of  usage of the Commands for Linux and MacOS
 
-## Installation
-Steps to install and set up your project:
-
+## Very first command
+1. Open terminal\n2. Run write the following command
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-npm install
+ls
