@@ -1,30 +1,17 @@
-# ManPages for CLI commands
+# ManPages for Software Tools (VIM, GCC, GDB)
 
 ![Main Image](CLI.jpg)
 
-## Description
-We tried to demonstrate basic to intermediate level of  usage of the Commands for Linux and MacOS
+## Introduction
+The world is advancing faster than we can imagine. Keeping up with technology is easier than it seems—despite some misconceptions that make it look difficult. Our goal is to clear these misconceptions and make learning software tools more intuitive, structured, and effective.
 
-## Very first command
-1. Open terminal.
-2. Write the following command.
-```bash
-ls
-```
-3. Hit Enter.
-4. WELCOME! You did it.
-## What is CLI?
-CLI stands for Command Line Interface. That means the interface you are using will use only commands instead of mouse click click.
-## What is shell?
-Shell is the program that can run the commands you are writing.
-There are various shells like:
--ZSH
--BASH
--FISH
-etc.
-## Try learning which shell you are running on your PC now.
-1. Open Terminal App on Linux or Mac.
-2. Write the following command on your terminal and hit ENTER.
-```bash
-echo $SHELL
-```
+## Software, Apps, and Tools
+Software consists of **logical instructions implemented through code** to perform specific tasks. For example, an **Operating System (OS)** is a type of software that manages an entire computer system, making it a **system software**.
+
+On the other hand, a **calculator app** on your phone is also software, but it serves a single, specific purpose—calculating. This makes it an **application software (App)**, as it is designed for a particular task.
+
+**Tools**, unlike full software applications, are specialized utilities designed to handle specific jobs, such as text editing, code compilation, or debugging. Examples include:
+- **VIM** – A powerful text editor.
+- **GCC** – A compiler for C/C++ and other languages.
+- **GDB** – A debugger for tracking and fixing code issues.
+
